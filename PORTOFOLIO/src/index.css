@@ -1,0 +1,17 @@
+*{
+ font-size:1.16em;
+ font-family: "Jersey 10", sans-serif;
+
+ font-style:normal;
+}
+.jersey-10-regular {
+   
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+.nav-link{
+   cursor: pointer; 
+}
